@@ -1,6 +1,6 @@
 # UI-Design-CMPT-363-
 
-  In this class, I was given an opportunity to work in a team of five consisting of Samer Sef, Kevin Beja, Thomas Lui, Zac Cheng. We were tasked to create an improved interface of the calendar API given in our canvas website SFU. We decided to use the app known as "Figma" to showcase our changes. 
+  In this class, I was given an opportunity to work in a team of five consisting of myself, Samer Sef, Kevin Beja, Thomas Lui, and Zac Cheng. We were tasked to create an improved interface of the calendar API given in our canvas website SFU. We decided to use the app known as "Figma" to showcase our changes. 
   
   A few of the changes include the following:
   
