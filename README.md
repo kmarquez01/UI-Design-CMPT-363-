@@ -24,5 +24,10 @@
 
 ![image](https://user-images.githubusercontent.com/79422601/135360783-db2ed2c3-4310-400e-bbbd-a17241cc168a.png)
 
+Image of flow:
+
+![image](https://user-images.githubusercontent.com/79422601/135361107-e81a7380-7420-4e1d-a64b-4c06f2e0f8a6.png)
+
+
 
 
