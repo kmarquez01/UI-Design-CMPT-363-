@@ -4,12 +4,12 @@
   
   A few of the changes include the following:
   
-  Functional requirements: 
+  *Functional requirements:* 
   - The Day box should have a button with “...” which will expand a day and provide a more detailed view for that day (figure 6). 
   - Calendar should allow the user to cross off all events manually (figure 7).
   - Users should be able to import other calendars into their canvas calendar with the iCal feature (figure 8).
 
-  Non-functional requirements:
+  *Non-functional requirements:*
   - Each day that has multiple events should show only the first two in the calendar with a “...” indicator to avoid unnecessary scrolling due to extra long rows. 
   - Groups for a class should appear below the class they pertain to and be   indented or linked in a similar fashion to how a directory tree would appear. 
   - Shows a toast message when users cross off an event
